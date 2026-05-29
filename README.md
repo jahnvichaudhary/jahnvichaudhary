@@ -17,6 +17,6 @@ Currently pursuing MCA in Cloud & Distributed Systems at DES Pune University.
 🏅 5× AWS Certified (Cloud Practitioner, DevOps, Networking & Security)
 
 ## Find me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=netlify)](frolicking-madeleine-32f393.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=netlify)](https://frolicking-madeleine-32f393.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/jahnvi-chaudhary-756152212)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chaudharyjahnvi89@gmail.com)
